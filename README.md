@@ -48,4 +48,4 @@ The project includes a pie chart showing the distribution of cars by fuel type a
 ## Project Platform
 Google colab
 
-Google Colab
+
